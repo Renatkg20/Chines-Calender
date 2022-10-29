@@ -5,4 +5,4 @@ lis1 = {1:"Cock",2:"Dog",3:"Pig",4:"Rate",5:"Bull",6:"Tiger", 7:"Hare",8:"Dragon
 
 ans = int(user) % 12
 
-print(lis1.get(ans))
+print(user,"is ", lis1.get(ans))
